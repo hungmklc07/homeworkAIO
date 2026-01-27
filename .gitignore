@@ -1,0 +1,41 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.project
+.settings/
+*.sublime-*
+
+# Compiled Files
+*.class
+*.pyc
+*.pyo
+__pycache__/
+*.o
+*.so
+*.exe
+*.out
+a.out
+
+# Build Directories
+build/
+dist/
+target/
+bin/
+obj/
+
+# Package Manager Directories
+node_modules/
+vendor/
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
